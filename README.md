@@ -87,7 +87,7 @@ The technical analysis translates directly into business action:
 
 3.  **Run the Notebook:**
     ```bash
-    jupyter notebook "Customer_Churn_Report (1).ipynb"
+    jupyter notebook "Customer_Churn_Model.ipynb"
     ```
 
 ## 🤝 Contributing
